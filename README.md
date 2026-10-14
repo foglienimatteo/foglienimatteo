@@ -9,7 +9,7 @@ metadata:
     university: "University of Milan"
     field: "Physics (Cosmology)"
 spec:
-  location: "Garching bei München (DE)"
+  location: "Munich (DE)"
   work: "Leibniz Supercomputing Centre (LRZ)"
 ``` 
 
